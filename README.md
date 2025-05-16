@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj2005&label=Profile%20views&color=0e75b6&style=flat" alt="vraj2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vraj2005" alt="vraj2005" /></a> </p>
-
 - 🔭 I’m currently working on **food ordering app using flutter**
 
 - 🌱 I’m currently learning **AI/ML**

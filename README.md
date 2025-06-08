@@ -2,12 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=191970&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Vraj+!;Cyber+security+%26+Full-Stack+Dev" alt="Typing SVG" />
 </p>
 <h3 align="center">Full-Stack Developer | Bridging Frontend & Backend</h3>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj2005&label=Profile%20views&color=0e75b6&style=flat" alt="vraj2005" /> </p>
 
 Hi, I'm Vraj Nakum - a passionate learner and aspiring developer.
 I enjoy exploring new technologies, solving problems through code, and building meaningful digital experiences. Whether it’s working on web development, experimenting with AI, or diving into cybersecurity, I’m always eager to grow and take on new challenges.
 
+🎓 **Education:**  
+  **B.Tech in Computer Science & Engineering**  
+  *Darshan University, Rajkot, India* | *Class of 2027*
+
+  **Diploma in Computer Science & Engineering**  
+  *Darshan University, Rajkot, India* | *Class of 2024*
+
+<h2>This is the place where I opensource stuff and break things 🤣</h2>
+  
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding GIF" />
 
 - 🔭 I’m currently working on **food ordering app using flutter**
@@ -26,6 +36,7 @@ I enjoy exploring new technologies, solving problems through code, and building 
 <a href="https://linkedin.com/in/vraj nakum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj nakum" height="30" width="40" /></a>
 <a href="https://instagram.com/vraj_nakum7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vraj_nakum7" height="30" width="40" /></a>
 </p>
+<hr>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -56,6 +67,6 @@ I enjoy exploring new technologies, solving problems through code, and building 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p><hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj2005&show_icons=true&locale=en" alt="vraj2005" /></p>

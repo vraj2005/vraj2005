@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj2005&label=Profile%20views&color=0e75b6&style=flat" alt="vraj2005" /> </p>
 
-Hi, I'm Vraj Nakum — a passionate learner and aspiring developer from India.
+Hi, I'm Vraj Nakum — a passionate learner and aspiring developer.
 I enjoy exploring new technologies, solving problems through code, and building meaningful digital experiences. Whether it’s working on web development, experimenting with AI, or diving into cybersecurity, I’m always eager to grow and take on new challenges.
 
 - 🔭 I’m currently working on **food ordering app using flutter**

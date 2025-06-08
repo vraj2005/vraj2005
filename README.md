@@ -8,6 +8,8 @@
 Hi, I'm Vraj Nakum — a passionate learner and aspiring developer.
 I enjoy exploring new technologies, solving problems through code, and building meaningful digital experiences. Whether it’s working on web development, experimenting with AI, or diving into cybersecurity, I’m always eager to grow and take on new challenges.
 
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding GIF" />
+
 - 🔭 I’m currently working on **food ordering app using flutter**
 
 - 🌱 I’m currently learning **AI/ML | Ethical Hacking and Cyber Security**

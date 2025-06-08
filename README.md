@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **food ordering app using flutter**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML | Ethical Hacking and Cyber Security**
 
 - 👯 I’m looking to collaborate on **Full-stack projects using MERN stack**
 

@@ -10,7 +10,7 @@ I enjoy exploring new technologies, solving problems through code, and building 
 
 - 🌱 I’m currently learning **AI/ML | Ethical Hacking and Cyber Security**
 
-- 👯 I’m looking to collaborate on **Full-stack projects using MERN stack**
+- 👯 I’m looking to collaborate on **Full-stack projects using MERN stack and MEAN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vraj2005?tab=repositories](https://github.com/vraj2005?tab=repositories)
 

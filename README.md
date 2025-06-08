@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vraj Nakum</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=black&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Vraj+!;Cybersec+Eng+%26+Full-Stack+Dev" alt="Typing SVG" />
+</p>
 <h3 align="center">Full-Stack Developer | Bridging Frontend & Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj2005&label=Profile%20views&color=0e75b6&style=flat" alt="vraj2005" /> </p>

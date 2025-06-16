@@ -74,4 +74,3 @@ I enjoy exploring new technologies, solving problems through code, and building 
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p><br><hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj2005&show_icons=true&locale=en" alt="vraj2005" /></p>

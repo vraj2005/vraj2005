@@ -9,7 +9,6 @@
 Hi, I'm Vraj Nakum - a passionate learner and aspiring developer.
 I enjoy exploring new technologies, solving problems through code, and building meaningful digital experiences. Whether it’s working on web development, experimenting with AI, or diving into cybersecurity, I’m always eager to grow and take on new challenges.
 
-<img align="center" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzOTU3NzgsIm5iZiI6MTc0OTM5NTQ3OCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDE1MTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzMDEwOWU4MDMzZjA4NzI4OGVmY2Q3M2ZiNWUyYjcwN2E0ZjZhYjg2MjE5MTVhMTJlMzg1MmVhNTVmZDU3MzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JohekSyYtpr8M1q0CprgOMlNvd_xiVo5vPvcPlhSbcA" width="150" height="150" alt="Coding GIF" />
 
 🎓 **Education:**  
   **B.Tech in Computer Science & Engineering**  

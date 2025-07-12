@@ -77,6 +77,7 @@ const vraj = {
 - 🤝 **Seeking** collaboration on innovative full-stack projects
 - 🌟 **Contributing** to open-source communities
 
+<br>
 ---
 
 ## 🛠️ Tech Stack & Tools

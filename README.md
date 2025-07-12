@@ -69,7 +69,6 @@ const vraj = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="180" alt="Coding GIF" />
 
 ### 🔥 What I'm Up To
 - 🍕 **Building** a comprehensive food ordering application using Flutter
@@ -77,7 +76,6 @@ const vraj = {
 - 🤝 **Seeking** collaboration on innovative full-stack projects
 - 🌟 **Contributing** to open-source communities
 
-<br>
 ---
 
 ## 🛠️ Tech Stack & Tools

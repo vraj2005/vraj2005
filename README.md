@@ -69,7 +69,7 @@ const vraj = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="250" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" alt="Coding GIF" />
 
 ### 🔥 What I'm Up To
 - 🍕 **Building** a comprehensive food ordering application using Flutter

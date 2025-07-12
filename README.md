@@ -132,11 +132,6 @@ const vraj = {
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vraj2005&theme=algolia)](https://git.io/streak-stats)
-
-</div>
 
 ---
 

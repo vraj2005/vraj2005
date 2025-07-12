@@ -76,6 +76,9 @@ const vraj = {
 - 🤝 **Seeking** collaboration on innovative full-stack projects
 - 🌟 **Contributing** to open-source communities
 
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding GIF" />
+
+
 ---
 
 ## 🛠️ Tech Stack & Tools

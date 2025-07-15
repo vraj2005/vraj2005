@@ -94,7 +94,7 @@ const vraj = {
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet" />
 </p>
 
 ### 📱 Mobile Development

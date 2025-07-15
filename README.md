@@ -139,7 +139,7 @@ const vraj = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vraj2005)](https://github.com/vraj2005/github-profile-trophy)
 
 </div>
 

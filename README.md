@@ -181,9 +181,9 @@ const vraj = {
 
 ### 📧 Reach Out For:
  🤝 **Collaboration** on exciting projects <br>
- 💡 **Consultation** on web development
-- 🔒 **Discussion** about cybersecurity
-- 🚀 **Opportunities** in tech
+ 💡 **Consultation** on web development<br>
+ 🔒 **Discussion** about cybersecurity<br>
+ 🚀 **Opportunities** in tech<br>
 
 </div>
 

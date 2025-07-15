@@ -180,7 +180,7 @@ const vraj = {
 </p>
 
 ### 📧 Reach Out For:
-- 🤝 **Collaboration** on exciting projects
+ 🤝 **Collaboration** on exciting projects
 - 💡 **Consultation** on web development
 - 🔒 **Discussion** about cybersecurity
 - 🚀 **Opportunities** in tech

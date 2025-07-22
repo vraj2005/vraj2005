@@ -19,7 +19,7 @@
 <div align="left">
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
 
-### 👋 Hello World! I'm Vraj Nakum
+### 👋 Hello World! I'm Vraj Nakum Lion
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 

@@ -99,7 +99,8 @@ const vraj = {
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="48" height="48"/>
 </p>
 
 ### 🗄️ Databases & Cloud

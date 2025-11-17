@@ -26,10 +26,10 @@
 I'm a passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** who loves turning complex problems into elegant solutions. Currently pursuing my B.Tech in Computer Science while building the digital future, one line of code at a time.
 
 #### 🚀 What I Do
-🔹 Build scalable web applications with modern technologies/<br>
-🔹 Explore AI/ML to create intelligent solutions
-- 🔹 Secure digital environments through ethical hacking
-- 🔹 Contribute to open-source projects and community growth
+🔹 Build scalable web applications with modern technologies<br>
+🔹 Explore AI/ML to create intelligent solutions<br>
+🔹 Secure digital environments through ethical hacking<br>
+🔹 Contribute to open-source projects and community growth
 
 </div>
 

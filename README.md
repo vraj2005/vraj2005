@@ -132,7 +132,7 @@ const vraj = {
 | **Library Management** | Complete library management solution | `Next.js` `MongoDB` |
 | **E-commerce Platform** | Scalable e-commerce application | `MERN/MEAN Stack` |
 | **Road Pothole Detection** | AI-powered road safety detection | `YOLO` `Deep Learning` `OpenCV` |
-| **Loan Default Prediction** | ML model for loan risk assessment | `Python` `Scikit-learn` `Pandas` |
+| **Loan Default Prediction** | ML model for loan risk assessment | `Python` `Scikit-learn` `Pandas` `NumPy` |
 | **SPI & CGPA Calculator** | Academic grade calculator with prediction | `Python` |
 
 </div>

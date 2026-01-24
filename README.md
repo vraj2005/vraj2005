@@ -27,7 +27,7 @@ I'm a passionate **Full Stack Developer** and **AI/ML Developer** from **Morbi, 
 
 #### 🚀 What I Do
 - 🔹 Full Stack Web Development (Next.js, React, Node.js, Express.js, NestJS, .NET Core)
-- 🔹 Machine Learning & Deep Learning (TensorFlow, PyTorch, YOLO, OpenCV)
+- 🔹 Machine Learning & Deep Learning (Pandas, NumPy, TensorFlow, PyTorch, YOLO, OpenCV)
 - 🔹 Database Management (MongoDB, PostgreSQL, MySQL, MS SQL Server)
 - 🔹 Ethical Hacking & Cybersecurity Basics
 - 🔹 Building Scalable Web Apps & API Development

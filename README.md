@@ -154,7 +154,6 @@ const vraj = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vraj2005&theme=onedark)](https://github.com/vraj2005/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=vraj2005&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -193,7 +192,7 @@ const vraj = {
 </p>
 
 ### 📧 Reach Out For:
-🤝 **Collaboration** on exciting projects &nbsp;|&nbsp; 💡 **Consultation** on web development &nbsp;|&nbsp; 🔒 **Discussion** about cybersecurity &nbsp;|&nbsp; 🚀 **Opportunities** in tech
+🤝 **Collaboration** on exciting projects &nbsp;|&nbsp; 💡 **Consultation** on web development &nbsp;|&nbsp; 🚀 **Opportunities** in tech
 
 </div>
 

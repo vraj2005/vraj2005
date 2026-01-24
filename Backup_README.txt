@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vraj%20Nakum&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;AI%2FML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Developer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <!-- Badges -->
 <p>
@@ -23,13 +23,14 @@
  
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** who loves turning complex problems into elegant solutions. Currently pursuing my B.Tech in Computer Science while building the digital future, one line of code at a time.
+I'm a passionate **Full Stack Developer** and **AI/ML Developer** from **Morbi, Gujarat, India** 🇮🇳. I love turning complex problems into elegant solutions. Currently pursuing my B.Tech in Computer Science while building the digital future, one line of code at a time.
 
 #### 🚀 What I Do
-- 🔹 Build scalable web applications with modern technologies
-- 🔹 Explore AI/ML to create intelligent solutions
-- 🔹 Secure digital environments through ethical hacking
-- 🔹 Contribute to open-source projects and community growth
+- 🔹 Full Stack Web Development (Next.js, React, Node.js, Express.js, NestJS, .NET Core)
+- 🔹 Machine Learning & Deep Learning (Pandas, NumPy, TensorFlow, PyTorch, YOLO, OpenCV)
+- 🔹 Database Management (MongoDB, PostgreSQL, MySQL, MS SQL Server)
+- 🔹 Ethical Hacking & Cybersecurity Basics
+- 🔹 Building Scalable Web Apps & API Development
 
 </div>
 
@@ -42,13 +43,13 @@ I'm a passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** who l
 <tr>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-blue?style=for-the-badge&logo=graduation-cap" />
-<br><strong>Darshan University, Rajkot</strong>
-<br>Class of 2027 🎓
+<br><strong>Darshan University</strong>
+<br>2024 – 2027 🎓
 </td>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/Diploma-Computer%20Science-green?style=for-the-badge&logo=academic-cap" />
-<br><strong>Darshan University, Rajkot</strong>
-<br>Class of 2024 🎓
+<br><strong>Darshan University</strong>
+<br>2021 – 2024 🎓
 </td>
 </tr>
 </table>
@@ -62,17 +63,18 @@ I'm a passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** who l
 
 ```typescript
 const vraj = {
-    currentlyWorking: "Food Ordering App with Flutter 📱",
-    learning: ["AI/ML", "Ethical Hacking", "Cloud Security"],
-    collaborating: "Full-stack projects (MERN & MEAN)",
-    askMeAbout: ["Web Dev", "Mobile Dev", "Cybersecurity"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    location: "Morbi, Gujarat, India 🇮🇳",
+    currentlyWorking: "Full Stack & AI/ML Projects",
+    learning: ["Machine Learning","Deep Learning","AI"],
+    collaborating: "Full-stack projects (MERN, MEAN, Next.js)",
+    askMeAbout: ["Web Dev", "AI/ML", "Databases", "API Development"],
+    funFact: "I build scalable apps by day & explore ML by night! 🌙"
 };
 ```
 
 ### 🔥 What I'm Up To
-- 🍕 **Building** a comprehensive food ordering application using Flutter
-- 🧠 **Learning** AI/ML algorithms and cybersecurity fundamentals  
+- 🍽️ **Building** Dishly – Restaurant Management System
+- 🧠 **Exploring** Deep Learning with TensorFlow & PyTorch
 - 🤝 **Seeking** collaboration on innovative full-stack projects
 - 🌟 **Contributing** to open-source communities
 
@@ -84,40 +86,54 @@ const vraj = {
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript,php,cs,dart" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,php" />
 </p>
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,tailwind,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet" />
 </p>
 
-### 📱 Mobile Development
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="48"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🤖 AI/ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
 </p>
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
-### 📊 Data Science & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-</p>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:----------:|:--------------|:--------------|
+| **Dishly** | Restaurant Management System | `Next.js` `Node.js` `NestJS` |
+| **Jewelry E-Commerce** | Full-featured online jewelry store | `MongoDB` `Express` `React` `Node.js` |
+| **Library Management** | Complete library management solution | `Next.js` `MongoDB` |
+| **E-commerce Platform** | Scalable e-commerce application | `MERN/MEAN Stack` |
+| **Road Pothole Detection** | AI-powered road safety detection | `YOLO` `Deep Learning` `OpenCV` |
+| **Loan Default Prediction** | ML model for loan risk assessment | `Python` `Scikit-learn` `Pandas` `NumPy` |
+| **SPI & CGPA Calculator** | Academic grade calculator with prediction | `Python` |
 
 </div>
 
@@ -132,14 +148,13 @@ const vraj = {
 
 </div>
 
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vraj2005)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vraj2005&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -162,11 +177,11 @@ const vraj = {
 ### 💬 Let's Connect and Build Something Amazing Together!
 
 <p>
-<a href="https://twitter.com/vrajnakum">
-  <img src="https://img.shields.io/badge/-@vrajnakum-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://linkedin.com/in/vraj nakum">
+<a href="https://www.linkedin.com/in/vraj2005">
   <img src="https://img.shields.io/badge/-Vraj%20Nakum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/vraj2005">
+  <img src="https://img.shields.io/badge/-vraj2005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://instagram.com/vraj_nakum7">
   <img src="https://img.shields.io/badge/-@vraj__nakum7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -174,16 +189,10 @@ const vraj = {
 <a href="mailto:vrajnakum57@gmail.com">
   <img src="https://img.shields.io/badge/-vrajnakum57@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/vraj2005?tab=repositories">
-  <img src="https://img.shields.io/badge/-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
-</a>
 </p>
 
 ### 📧 Reach Out For:
- 🤝 **Collaboration** on exciting projects <br>
- 💡 **Consultation** on web development<br>
- 🔒 **Discussion** about cybersecurity<br>
- 🚀 **Opportunities** in tech<br>
+🤝 **Collaboration** on exciting projects &nbsp;|&nbsp; 💡 **Consultation** on web development &nbsp;|&nbsp; 🚀 **Opportunities** in tech
 
 </div>
 
@@ -199,12 +208,12 @@ const vraj = {
 const funFacts = [
     "I can code for hours with just coffee and good music ☕🎵",
     "I believe every bug is just an undocumented feature 🐛✨",
-    "My IDE theme changes with my mood 🎨",
+    "Full Stack by day, ML explorer by night 🌙",
     "I'm fluent in multiple languages... programming languages! 💻",
-    "Stack Overflow is my second home 🏠"
+    "Building the future, one commit at a time 🚀"
 ];
 
-console.log("Thanks for visiting my profile! 🚀");
+console.log("Thanks for visiting my profile! Let's build something amazing together! 🚀");
 ```
 
 </div>

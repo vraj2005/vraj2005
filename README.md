@@ -65,7 +65,7 @@ I'm a passionate **Full Stack Developer** and **AI/ML Developer** from **Morbi, 
 const vraj = {
     location: "Morbi, Gujarat, India 🇮🇳",
     currentlyWorking: "Full Stack & AI/ML Projects",
-    learning: ["Advanced Deep Learning", "System Design", "Cybersecurity"],
+    learning: ["Machine Learning","Deep Learning","AI"],
     collaborating: "Full-stack projects (MERN, MEAN, Next.js)",
     askMeAbout: ["Web Dev", "AI/ML", "Databases", "API Development"],
     funFact: "I build scalable apps by day & explore ML by night! 🌙"

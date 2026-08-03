@@ -154,7 +154,7 @@ const vraj = {
 
 <div align="center">
 
-[![Vraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vraj2005&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vraj2005&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/vraj2005/github-readme-activity-graph)
 
 </div>
 
